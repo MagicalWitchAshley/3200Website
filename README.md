@@ -1,2 +1,3 @@
 # 3200Website
-GitHub Pages Website for 3200
+GitHub Pages Website for TECM3200.
+It's nothin' special. Get outta here.
